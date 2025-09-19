@@ -33,7 +33,7 @@ def yes_no(msg, color=:yellow)
   answer == "yes"
 end
 
-puts "\n=== Hanifx Interactive Professional Test ===".blue
+puts "\n=== hanifx ===".blue
 
 # -------------------------
 # 1️⃣ Manual Module Imports
